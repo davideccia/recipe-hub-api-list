@@ -1,0 +1,17 @@
+type: folder
+model: folder
+id: fl_Y5z76HEHxc
+createdAt: 2025-10-23T11:17:43.059757
+updatedAt: 2025-10-23T11:32:45.796162
+workspaceId: wk_pR2Rjbs7by
+folderId: null
+authentication: {}
+authenticationType: null
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: GndEaFYZpC
+name: Laravel
+sortPriority: -1761218300000.0

@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_pR2Rjbs7by
+createdAt: 2025-10-23T11:16:06.402960
+updatedAt: 2025-10-23T11:27:39.160900
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: RecipeHub
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

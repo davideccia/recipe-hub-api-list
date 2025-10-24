@@ -1,0 +1,13 @@
+type: folder
+model: folder
+id: fl_FAiuXTHX5f
+createdAt: 2025-10-24T11:52:03.393595
+updatedAt: 2025-10-24T12:39:56.657872
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_pHq7ePSqdw
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: measurement_units
+sortPriority: 3000.0

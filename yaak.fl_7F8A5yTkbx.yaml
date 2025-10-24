@@ -1,0 +1,13 @@
+type: folder
+model: folder
+id: fl_7F8A5yTkbx
+createdAt: 2025-10-24T11:56:45.739538
+updatedAt: 2025-10-24T12:39:56.658617
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_pHq7ePSqdw
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: recipes
+sortPriority: 4000.0

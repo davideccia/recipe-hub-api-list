@@ -1,0 +1,31 @@
+type: http_request
+model: http_request
+id: rq_RYKV4uR5of
+createdAt: 2025-10-24T12:39:59.941072
+updatedAt: 2025-10-24T12:40:30.018890
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_iYoBZbBmrZ
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+method: GET
+name: index
+sortPriority: 1000.0
+url: ${[ url ]}/desktop/users
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir

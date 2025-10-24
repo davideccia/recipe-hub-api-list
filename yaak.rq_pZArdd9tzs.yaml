@@ -1,0 +1,35 @@
+type: http_request
+model: http_request
+id: rq_pZArdd9tzs
+createdAt: 2025-10-24T11:56:45.740317
+updatedAt: 2025-10-24T12:28:59.882865
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_7F8A5yTkbx
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+method: GET
+name: show
+sortPriority: 3000.0
+url: ${[ url ]}/desktop/recipes/019a162c-ccc5-7230-ba42-84104e3af7d1
+urlParameters:
+- enabled: true
+  name: with
+  value: ingredients
+  id: H8tix2cUQi
+- enabled: true
+  name: ''
+  value: ''
+  id: huxPuHHGwn

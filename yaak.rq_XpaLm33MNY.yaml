@@ -1,0 +1,31 @@
+type: http_request
+model: http_request
+id: rq_XpaLm33MNY
+createdAt: 2025-10-24T11:52:03.394534
+updatedAt: 2025-10-24T11:56:32.618709
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_FAiuXTHX5f
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+method: DELETE
+name: destroy
+sortPriority: -1761218271994.997
+url: ${[ url ]}/desktop/measurement_units/0199e7f3-62df-7317-9147-7c6499e6e050
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir

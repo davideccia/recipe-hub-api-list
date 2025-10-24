@@ -1,0 +1,14 @@
+type: folder
+model: folder
+id: fl_pHq7ePSqdw
+createdAt: 2025-10-23T11:21:35.968108
+updatedAt: 2025-10-24T11:47:11.586736
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_Y5z76HEHxc
+authentication:
+  token: ${[ desktop_token ]}
+authenticationType: bearer
+description: ''
+headers: []
+name: desktop
+sortPriority: 0.0

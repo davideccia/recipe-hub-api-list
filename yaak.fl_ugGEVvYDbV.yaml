@@ -1,0 +1,13 @@
+type: folder
+model: folder
+id: fl_ugGEVvYDbV
+createdAt: 2025-10-24T11:48:52.247115
+updatedAt: 2025-10-24T12:39:56.657054
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_pHq7ePSqdw
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: ingredients
+sortPriority: 2000.0

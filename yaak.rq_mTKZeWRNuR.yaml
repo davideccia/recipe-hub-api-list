@@ -1,0 +1,38 @@
+type: http_request
+model: http_request
+id: rq_mTKZeWRNuR
+createdAt: 2025-10-24T11:48:52.248281
+updatedAt: 2025-10-24T11:50:38.135946
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_ugGEVvYDbV
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "name":"Farina 00"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: z9DAgBKqcr
+method: POST
+name: store
+sortPriority: -1761218271994.999
+url: ${[ url ]}/desktop/ingredients
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir

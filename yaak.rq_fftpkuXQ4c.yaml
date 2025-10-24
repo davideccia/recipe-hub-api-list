@@ -1,0 +1,49 @@
+type: http_request
+model: http_request
+id: rq_fftpkuXQ4c
+createdAt: 2025-10-24T12:53:02.171732
+updatedAt: 2025-10-24T12:59:39.532929
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_YdfTjiUfEh
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "title": "Tiramisu",
+      "description": "Et ut amet sed architecto occaecati. Quia dolorem harum sit et quia facere. Sint accusamus velit nihil. Rem minima officia eveniet aut sed aut aut.",
+      "public": true,
+      "difficulty": 3,
+      "ingredients": [
+        {
+          "ingredient_id": "019a162a-0b84-7204-a696-92d733b3d957",
+          "measurement_unit_id": "019a162a-111a-720c-9fc0-ca4a3447a1e1",
+          "quantity": 10,
+          "notes": null
+        }
+      ]
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: z9DAgBKqcr
+method: POST
+name: store
+sortPriority: -1761218271994.999
+url: ${[ url ]}/desktop/users/019a162a-0a7d-738b-b1de-d938752fbf96/recipes
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir

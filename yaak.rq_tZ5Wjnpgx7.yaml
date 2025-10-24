@@ -1,0 +1,41 @@
+type: http_request
+model: http_request
+id: rq_tZ5Wjnpgx7
+createdAt: 2025-10-24T12:39:59.941225
+updatedAt: 2025-10-24T12:50:43.046873
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_iYoBZbBmrZ
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "last_name": "User",
+      "first_name": "User",
+      "role": "user",
+      "email": "user@example.it"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: z9DAgBKqcr
+method: POST
+name: store
+sortPriority: 2000.0
+url: ${[ url ]}/desktop/users
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir

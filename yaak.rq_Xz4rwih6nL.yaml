@@ -1,0 +1,38 @@
+type: http_request
+model: http_request
+id: rq_Xz4rwih6nL
+createdAt: 2025-10-24T12:28:58.263613
+updatedAt: 2025-10-24T12:33:59.285744
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_7PkYKxgcEB
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "rating": 1
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: z9DAgBKqcr
+method: POST
+name: store
+sortPriority: -1761218271994.999
+url: ${[ url ]}/desktop/recipes/019a162a-12a5-7308-b56a-88895d29615a/reviews
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir

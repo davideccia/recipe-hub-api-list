@@ -1,0 +1,31 @@
+type: http_request
+model: http_request
+id: rq_MU8HdV59Rp
+createdAt: 2025-10-24T12:28:58.263472
+updatedAt: 2025-10-24T12:34:59.474891
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_7PkYKxgcEB
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+method: GET
+name: index
+sortPriority: -1761218271995.0
+url: ${[ url ]}/desktop/recipes/019a162a-12a5-7308-b56a-88895d29615a/reviews
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: fZA52sixYu

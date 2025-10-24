@@ -1,0 +1,39 @@
+type: http_request
+model: http_request
+id: rq_sAppkkimyo
+createdAt: 2025-10-23T11:17:51.996443
+updatedAt: 2025-10-24T11:48:35.284878
+workspaceId: wk_pR2Rjbs7by
+folderId: fl_u9dnRMGpuQ
+authentication: {}
+authenticationType: none
+body:
+  text: |-
+    {
+      "email":"user@example.it",
+      "password":"12345678"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Accept
+  value: application/json
+  id: 6I5jB77H3J
+- enabled: true
+  name: ''
+  value: ''
+  id: XqwWek7gMy
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: yDjA3UY4Jq
+method: POST
+name: login
+sortPriority: -1761218271995.0
+url: ${[ url ]}/desktop/login
+urlParameters:
+- enabled: true
+  name: ''
+  value: ''
+  id: kPaRhsz6ir
